@@ -1,0 +1,17 @@
+{
+    "name": "HW3/paranormalhotel",
+    "description": "Rooms classes",
+    "authors": [
+        {
+            "name": "Mykhailenko Viacheslav",
+            "email": "sl_msm@ukr.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HotelRooms\\": "src/HotelRooms"
+        }
+    },
+
+    "require": {}
+}
